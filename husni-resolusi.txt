@@ -2,4 +2,4 @@ HUSNI RESOLUSI
 - Konsisten membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video
 - Membuat forum disk
-- Membuat Merch Shop & Kolaboras
+- Tambah fitur vlog
