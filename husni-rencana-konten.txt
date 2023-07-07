@@ -1,5 +1,7 @@
 RENCANA KONTEN HUSNI
 
 -Javascript
+  *ES6
+  * Framework javascript
 - Php Framework
 - Interview
