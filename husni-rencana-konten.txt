@@ -8,3 +8,4 @@ RENCANA KONTEN HUSNI
 - Struktur Data Dasar
 - Php Framework
 - Interview
+- Python
