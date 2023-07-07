@@ -3,6 +3,8 @@ RENCANA KONTEN HUSNI
 -Javascript
   *ES6
   * Framework javascript
-- Struktur Data Dasar
+    ^ Vue
+    ^ React
 - Php Framework
 - Interview
+- Python
