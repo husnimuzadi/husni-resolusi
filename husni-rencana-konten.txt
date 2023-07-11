@@ -9,7 +9,3 @@ RENCANA KONTEN HUSNI
 - Php Framework
 - Interview
 - Python
-- Belajar Database Mysql
-- Belajar CSS
-  ^ Tailwind CSS
-- Belajar Dart Dan Flutter
